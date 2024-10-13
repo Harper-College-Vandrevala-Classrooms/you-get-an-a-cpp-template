@@ -1,1 +1,1 @@
-# you-get-an-a-cpp-template
+# You Get an A! - C++ Template
